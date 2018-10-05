@@ -1,6 +1,6 @@
 ### Well hello there!
 
-[Test message from brach "testbranch1"]
+[Test message from branch "testbranch1"]
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
